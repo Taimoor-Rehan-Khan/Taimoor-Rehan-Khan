@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taimoor-Rehan-Khan
 - 👀 I’m interested in Java and Backend
-- 🌱 I’m currently learning Java!
+- 🌱 I’m currently learning Java, Python, React, and Springboot
 - 📫 How to reach me: https://www.linkedin.com/in/taimoor-rehan-khan/
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: ...
